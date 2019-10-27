@@ -1,5 +1,5 @@
 # Top-k integer
-Use the chain architecture to obtain the top-k integer values from an input file.  Implemented in C using [FGMPI](https://www.cs.ubc.ca/~humaira/fgmpi.html).
+Obtaining the top-k integer values in an input file using chain architecture.  Implemented in C using [FGMPI](https://www.cs.ubc.ca/~humaira/fgmpi.html).
 ## Compile
 `make`
 
